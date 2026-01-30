@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Buse 👋
 
-<!--
-**rbmentes/rbmentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-year Electrical and Electronics Engineering student with a strong interest in
+speech processing, signal processing, and intelligent control systems.
 
-Here are some ideas to get you started:
+I enjoy building system-oriented projects that combine signal analysis, decision logic,
+and digital control architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Areas of Interest
+- Speech Signal Processing
+- Finite State Machines (FSM)
+- Intelligent Control Systems
+- Digital Design
+- Python-based System Development
+
+ 🛠️ Tools & Technologies
+- Python
+- MATLAB
+- Librosa
+- NumPy
+- Logisim Evolution
+- VS Code
+
+🚀 Current Focus
+- Developing advanced speech-controlled FSM systems
+- Exploring confidence-aware and context-aware decision-making algorithms
+
+📌 *More projects will be added soon.*
