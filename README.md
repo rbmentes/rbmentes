@@ -25,4 +25,7 @@ and digital control architectures.
 - Developing advanced speech-controlled FSM systems
 - Exploring confidence-aware and context-aware decision-making algorithms
 
+🌸 Personal Website:
+https://rbmentes.github.io/shebuildsstem/
+
 📌 *More projects will be added soon.*
